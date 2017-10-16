@@ -1,4 +1,4 @@
-account-polld-plugins-go (0.2-0ubuntu1) xenial; urgency=medium
+account-polld-plugins-go (0.2+1ubports1) xenial; urgency=medium
 
   * Fix packaging, add missing plugins.
 
